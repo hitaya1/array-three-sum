@@ -102,5 +102,5 @@ function arrayThreeSum(arr, targetSum){
 ## Resources
 _Feel free to PR any useful resources! :)_
 
-* [Sample Slides](https://docs.google.com/presentation/d/1LhdgluKGpMBijw7B9FlMrTyX0IN6FgFuT4ezNr0W2Cc/edit#slide=id.g99d99f4895_0_2987)
+* [Sample Slides](https://docs.google.com/presentation/d/1rwJXZ9iIW4peAxt_6XWS9ERBI-6M5sf6DB9ywPpPkz4/edit?usp=sharing)
 * [AlgoExpert Link](https://www.algoexpert.io/questions/Three%20Number%20Sum)
